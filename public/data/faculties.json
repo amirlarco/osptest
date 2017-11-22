@@ -1,0 +1,54 @@
+[
+    {
+        "faculty":  "Faculty of Life Sciences",
+        "departments": ["Bio-chemistry (Life Sciences)", "Botany", "Zoology", "Wildlife Sciences", "Museology"]
+    },
+    {
+        "faculty":  "Faculty of Sciences",
+        "departments": ["Chemistry", "Statistics and Operations Research", "Geology", "Mathematics", "Geography", "Computer Science", "Industrial Chemistry", "Physics", "Interdisciplinary Department of Remote Sensing and GIS Applications"]
+    },
+    {
+        "faculty": "Faculty of Agricultural Sciences",
+        "departments": ["Home Sciences", "Agricultural Eco. Business Mngt.", "Agricultural Microbiology", "Plant Protection", "Post Harvest Engineering and Technology"]
+    },
+    {
+        "faculty": "Faculty of Arts",
+        "departments": ["Hindi", "Sanskrit", "Geography", "English", "Urdu", "Linguistics", "Hindi", "Persian", "Sanskirt", "Philosophy", "Fine Arts", "Arabic", "Modern Indian Languages"]
+    },
+    {
+        "faculty": "Faculty of Commerce",
+        "departments": ["Commerce"]
+    },
+    {
+        "faculty": "Faculty of Engineering & Technology",
+        "departments": ["Applied Physics", "Applied Chemistry", "Electrical Engineering", "Chemical Engineering", "Electronics Engineering", "Computer Engineering", "Petroleum Studies", "Civil Engineering", "Architecture", "Mechanical Engineering", "Womens Polytechnic", "University Polytechnic", "Applied Mathematics"]
+    },
+    {
+        "faculty": "Faculty of International Studies",
+        "departments": ["American European Studies", "Asia-Pacific Studies", "Chinese Studies", "Foreign Languages", "South African & Brazilian Studies", "South Asia and Indian Ocean Region Studies", "Strategic Security Studies", "West Asian Studies and North African Studies"]
+    },
+    {
+        "faculty": "Faculty of Law",
+        "departments": ["Law", "Law - Murshidabad"]
+    },
+    {
+        "faculty": "Faculty of Management Studies & Research",
+        "departments": ["Business Administration (Malappuram)", "Business Administration", "Business Administration - Murshidabad", "Business Administration (Kishanganj)"]
+    },
+    {
+        "faculty": "Faculty of Medicine",
+        "departments": ["Surgery", "Oral Pathology Oral Medicine Radiology", "Ophthalmology", "Paediatrics Preventive Dentistry", "Paediatrics", "TB and Chest Diseases", "J.N. Medical College (For MBBS Students)", "Bio-chemistry (JNMC)", "Physiology", "S. Z. Dental College", "Pathology", "Interdisciplinary Brain Research Centre", "Psychiatry", "Orthopaedic Surgery", "Anaesthesiology", "Medicine", "Oto-Rhino-Laryngology (E.N.T.)", "Community Medicine", "Radio Therapy", "Anatomy", "Periodontics and Community Dentistry", "Prosthodontics", "Rajeev Gandhi Institute of Diabetes", "Radio-diagnosis", "Pharmacology", "Plastic Surgery", "Forensic Medicine", "Neuro Surgery", "Obstetrics and Gynaecology", "Conservative dentistry Endodontics", "Oral and Maxillofacial Surgery", "Microbiology", "Nursing", "Endocrinology", "Orthodontics and Dentofacial Orthopedics", "Dermatology", "Paediatric Surgery", "Cardiothoracic Surgery"]
+    },
+    {
+        "faculty": "Faculty of Social Sciences",
+        "departments": ["Political Science", "History", "Economics", "Psychology", "Social Work", "Islamic Studies", "Sociology", "Public Administration", "Library and Information Science", "Mass Communication", "Physical Education","Geography", "Education", "Education - Murshidabad", "Human Rights"]
+    },
+    {
+        "faculty": "Faculty of Theology",
+        "departments": ["Sunni Theology", "Shia Theology"]
+    },
+    {
+        "faculty": "Faculty of Unani Medicine",
+        "departments": ["Ajmal Khan Tibbiya College (for BUMS Students)", "Amraz-e-Jild wa Zohrawia", "Amraz-e-niswan-wa-Atfal", "Ilaj Bit Tadbeer", "Ilmul Advia", "Ilmul Amraz", "Jarahat", "Kulliyat", "Moalijat", "Saidla", "Tahaffuzi-wa-Samaji-Tib", "Tashreehul Badan", "Munafeul Aza", "Hifzan-e-Sehat-wa-Tibbi Samaji"]
+    }
+]

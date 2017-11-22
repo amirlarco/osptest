@@ -1,0 +1,28 @@
+{
+  "name": "osp",
+  "description": "AMU web Portal",
+  "main": "",
+  "authors": [
+    "Mohammad Amir"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "angularjs#^1.5.5",
+    "font-awesome": "^4.6.3",
+    "metisMenu": "^2.5.2",
+    "morris.js": "morrisjs#^0.5.1",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.37",
+    "angular-ui-router": "^0.3.0",
+    "google-fonts": "*"
+  }
+}

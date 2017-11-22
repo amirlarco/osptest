@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Code Library</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="../../../build/web/public/libs/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Updating Array in MongoDB</h1>
+            <pre>
+                db.getCollection('students').update(
+                    // query 
+                    {},
+
+                    // update 
+                    { 
+                        $set: { 
+                        "service.0.service" : "WiFi",
+                        "service.0.applied" : false,
+                        "service.0.appliedOn" : null,
+                        "service.0.status" : "Not Applied",
+                        "service.0.mac" : "",
+                        "service.0.createdby" : "",
+                        "service.0.createdOn" : null,
+                        "service.0.notified" : false,
+                        "service.0.notifiedOn" : null,
+                        "service.0.notifiedByEmail" : false,
+                        "service.0.notifiedBySMS" : false            
+                        }        
+                    },
+
+                    // options 
+                    {
+                    "multi" : true,  // update only one document 
+                    "upsert" : false  // insert a new document, if no existing document match the query 
+                    }
+                );
+
+                db.getCollection('students').update(
+                    // query 
+                    {
+                    },
+
+                    // update 
+                    {
+                        $set: {"services": [
+                            {
+                                "service": "WiFi",
+                                "applied": false,
+                                "appliedOn": null,
+                                "status": "Not Applied",
+                                "mac": "",
+                                "createdBy": "",
+                                "createdOn": null,
+                                "notified": false,
+                                "notifiedOn": null,
+                                "notifiedByEmail": false,
+                                "notifiedBySMS": false
+                            },
+                            {
+                                "service": "GCL Lab",
+                                "applied": false,
+                                "appliedOn": null,
+                                "status": "Not Applied",                
+                                "createdBy": "",
+                                "createdOn": null,
+                                "notified": false,
+                                "notifiedOn": null,
+                                "notifiedByEmail": false,
+                                "notifiedBySMS": false
+                            },
+                            {
+                                "service": "Research Lab",
+                                "applied": false,
+                                "appliedOn": null,
+                                "status": "Not Applied",                
+                                "createdBy": "",
+                                "createdOn": null,
+                                "notified": false,
+                                "notifiedOn": null,
+                                "notifiedByEmail": false,
+                                "notifiedBySMS": false
+                            },
+                            {
+                                "service": "Email",
+                                "applied": false,
+                                "appliedOn": null,
+                                "status": "Not Applied",
+                                "provided_email": "",
+                                "createdBy": "",
+                                "createdOn": null,
+                                "notified": false,
+                                "notifiedOn": null,
+                                "notifiedByEmail": false,
+                                "notifiedBySMS": false
+                            }
+                        ]}
+                    },
+
+                    // options 
+                    {
+                        "multi" : true,  // update only one document 
+                        "upsert" : false  // insert a new document, if no existing document match the query 
+                    }
+                );
+            </pre>
+            <h1>Remove a field from Documents</h1>
+            <p>To remove a field from all documents, set {multi: true}, else only the field of the first matched document will be removed.</p>
+            <pre>
+                db.students.update({},{$unset: {services:1}},{multi: true});
+            </pre>
+        </div>
+    </body>
+</html>

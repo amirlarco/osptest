@@ -1,0 +1,1550 @@
+[
+    {
+        "name": "Advance Dip. in Translation"
+    },
+    {        
+        "name": "Bachelor of Education (B.Ed.)"        
+    },
+    {        
+        "name": "The Bridge Course"
+    },
+    {        
+        "name": "PDF"
+    },
+    {        
+        "name": "Research Associate"
+    },
+    {        
+        "name": "Dip. in Calligraphy and Graphic Design"        
+    },
+    {        
+        "name": "P.G. Diploma Hydro Geology"        
+    },
+    {        
+        "name": "P.G. Diploma in Journalism"        
+    },
+    {        
+        "name": "P.G. Diploma in Electronics Data Processing and Machine Operation"        
+    },
+    {        
+        "name": "P.G. Diploma in Labour Law and Labour Relations"        
+    },
+    {        
+        "name": "P.G. Diploma in Environmental Chemistry"        
+    },
+    {        
+        "name": "P.G. Diploma in Hospitality Management"
+    },
+    {        
+        "name": "P.G. Diploma in Gem Testing and Jewellery Designing"        
+    },
+    {        
+        "name": "P.G. Diploma in Islamic Banking and Finance"        
+    },
+    {        
+        "name": "Post M. A. Diploma in Urdu Translation"        
+    },
+    {        
+        "name": "Bachelor of Library & Information Science"        
+    },
+    {        
+        "name": "PG Diploma in Business Finance"        
+    },
+    {        
+        "name": "PG Diploma in Company Law, Banking & Insurance"        
+    },
+    {        
+        "name": "Diploma in Computerized Shoe Design & Development"        
+    },
+    {        
+        "name": "Post PG Dip. in Human Resource Development and Management"        
+    },
+    {        
+        "name": "Post M. Sc. Diploma in Museology"        
+    },
+    {        
+        "name": "PG Diploma in Computer Programming"        
+    },
+    {        
+        "name": "Diploma in Quranic Studies"        
+    },
+    {        
+        "name": "PG Diploma in Banking, Risk & Insurance Management"        
+    },
+    {        
+        "name": "Master of Education (M.Ed.)"        
+    },
+    {        
+        "name": "Bachelor of Physical Education (B.P.Ed.)"        
+    },
+    {        
+        "name": "PG Diploma in Personnel Management"        
+    },
+    {        
+        "name": "PG Diploma in Conflict Resolution & Peace Studies"        
+    },
+    {        
+        "name": "PG Diploma in Nanotechnology"        
+    },
+    {        
+        "name": "PG Diploma in Marketing Management"        
+    },
+    {        
+        "name": "Advance Diploma in Environmental Engineering"
+    },
+    {        
+        "name": "Master of Library & Information Science"
+    },
+    {        
+        "name": "M.Tech. (Nanotechnology)"        
+    },
+    {        
+        "name": "Ph.D / M.Phil Nanotechnology"        
+    },
+    {        
+        "name": "B.Voc Degree in Polymer & Coating"        
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2b6"
+        },
+        "code": "ARBB",
+        "name": "B.A. (Hons) Arabic",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2b8"
+        },
+        "code": "CNBB",
+        "name": "B.A. (Hons) Comm. English",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2ba"
+        },
+        "code": "ENBB",
+        "name": "B.A. (Hons) English",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2bc"
+        },
+        "code": "FABB",
+        "name": "B.A. (Hons) Fine Arts (Girls)",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2be"
+        },
+        "code": "GG2B",
+        "name": "B.A. (Hons) Geography",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2c0"
+        },
+        "code": "HNBB",
+        "name": "B.A. (Hons) Hindi",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2c2"
+        },
+        "code": "LNBB",
+        "name": "B.A. (Hons) Linguistics",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2c4"
+        },
+        "code": "PRBB",
+        "name": "B.A. (Hons) Persian",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2c6"
+        },
+        "code": "PYBB",
+        "name": "B.A. (Hons) Philosophy",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2c8"
+        },
+        "code": "SKBB",
+        "name": "B.A. (Hons) Sanskrit",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2ca"
+        },
+        "code": "URBB",
+        "name": "B.A. (Hons) Urdu",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2cc"
+        },
+        "code": "BAFL",
+        "name": "B.A. (Hons)(FOREIGN LANGUAGE)",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2ce"
+        },
+        "code": "BFAB",
+        "name": "B.F.A. (Bachelor of Fine Arts)",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2d0"
+        },
+        "code": "ARMM",
+        "name": "M.A. (Arabic)",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2d2"
+        },
+        "code": "BLMM",
+        "name": "M.A. (Bengali)",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2d4"
+        },
+        "code": "LTMM",
+        "name": "M.A. (English Lang.Teach)",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2d6"
+        },
+        "code": "ENMM",
+        "name": "M.A. (English)",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2d8"
+        },
+        "code": "HTMM",
+        "name": "M.A. (HINDI TRANSLATION)",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2da"
+        },
+        "code": "HNMM",
+        "name": "M.A. (Hindi)",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2dc"
+        },
+        "code": "LAMM",
+        "name": "M.A. (LANG.OF ADVT.MEDIA \u0026 MAR",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2de"
+        },
+        "code": "LNMM",
+        "name": "M.A. (Linguistics)",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2e0"
+        },
+        "code": "MLMM",
+        "name": "M.A. (Malayalam)",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2e2"
+        },
+        "code": "PRMM",
+        "name": "M.A. (Persian)",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2e4"
+        },
+        "code": "PYMM",
+        "name": "M.A. (Philosophy)",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2e6"
+        },
+        "code": "SKMM",
+        "name": "M.A. (Sanskrit)",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2e8"
+        },
+        "code": "TMMM",
+        "name": "M.A. (Tamil)",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2ea"
+        },
+        "code": "TLMM",
+        "name": "M.A. (Telugu)",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2ec"
+        },
+        "code": "URMM",
+        "name": "M.A. (Urdu)",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2ee"
+        },
+        "code": "FAMM",
+        "name": "M.F.A. (Master of Fine Arts)",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2f0"
+        },
+        "code": "PDMC",
+        "name": "PG Diploma in Mass Comm.(Urdu)",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2f2"
+        },
+        "code": "PHDA",
+        "name": "Ph.D / M.Phil. (Arts)",
+        "faculty": "F/o ARTS"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2f4"
+        },
+        "code": "CMBB",
+        "name": "B.Com (Hons)",
+        "faculty": "F/o Commerce"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2f6"
+        },
+        "code": "CMMM",
+        "name": "M.Com.",
+        "faculty": "F/o Commerce"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2f8"
+        },
+        "code": "FCMM",
+        "name": "Master of Fin \u0026 Control (MFC)",
+        "faculty": "F/o Commerce"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2fa"
+        },
+        "code": "TAMM",
+        "name": "Master of Tourism Admin (MTA)",
+        "faculty": "F/o Commerce"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2fc"
+        },
+        "code": "PHDC",
+        "name": "Ph.D / M.Phil. (Commerce)",
+        "faculty": "F/o Commerce"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d2fe"
+        },
+        "code": "ARCB",
+        "name": "B.Arch.",
+        "faculty": "F/o Engineering"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d300"
+        },
+        "code": "BESC",
+        "name": "B.E.(EVENING - CIVIL)",
+        "faculty": "F/o Engineering"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d302"
+        },
+        "code": "BESE",
+        "name": "B.E.(EVENING - ELECTRICAL)",
+        "faculty": "F/o Engineering"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d304"
+        },
+        "code": "BESM",
+        "name": "B.E.(EVENING - MECHANICAL)",
+        "faculty": "F/o Engineering"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d306"
+        },
+        "code": "KEBT",
+        "name": "B.Tech. (Chemical Engineering)",
+        "faculty": "F/o Engineering"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1e916c26013d451d308"
+        },
+        "code": "CEBT",
+        "name": "B.Tech. (Civil Engineering)",
+        "faculty": "F/o Engineering"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d30a"
+        },
+        "code": "COBT",
+        "name": "B.Tech. (Computer Engineering)",
+        "faculty": "F/o Engineering"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d30c"
+        },
+        "code": "EEBT",
+        "name": "B.Tech. (Elect Engineering)",
+        "faculty": "F/o Engineering"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d30e"
+        },
+        "code": "LEBT",
+        "name": "B.Tech. (Electronics Engg)",
+        "faculty": "F/o Engineering"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d310"
+        },
+        "code": "MEBT",
+        "name": "B.Tech. (Mechanical Engg)",
+        "faculty": "F/o Engineering"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d312"
+        },
+        "code": "PKBT",
+        "name": "B.Tech. (Petrochemical Engg)",
+        "faculty": "F/o Engineering"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d314"
+        },
+        "code": "PSTM",
+        "name": "M.Sc. (POLYMER SC.\u0026 TECH.)",
+        "faculty": "F/o Engineering"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d316"
+        },
+        "code": "KEMT",
+        "name": "M.Tech. (Chemical Engg)",
+        "faculty": "F/o Engineering"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d318"
+        },
+        "code": "CEMT",
+        "name": "M.Tech. (Civil Engineering)",
+        "faculty": "F/o Engineering"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d31a"
+        },
+        "code": "EEMT",
+        "name": "M.Tech. (Electrical Engg)",
+        "faculty": "F/o Engineering"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d31c"
+        },
+        "code": "LEMT",
+        "name": "M.Tech. (Electronics Engg)",
+        "faculty": "F/o Engineering"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d31e"
+        },
+        "code": "MEMT",
+        "name": "M.Tech. (Mechanical Engg)",
+        "faculty": "F/o Engineering"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d320"
+        },
+        "code": "PEMT",
+        "name": "M.Tech. (Petro.Proc.\u0026Petroch.)",
+        "faculty": "F/o Engineering"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d322"
+        },
+        "code": "COMT",
+        "name": "M.Tech. Comp.Sci. \u0026 Engg",
+        "faculty": "F/o Engineering"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d326"
+        },
+        "code": "PHDE",
+        "name": "Ph.D / M.Phil. (Engineering)",
+        "faculty": "F/o Engineering"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d328"
+        },
+        "code": "HOBB",
+        "name": "B.Sc. (Hons) Home Sc.(Girls)",
+        "faculty": "F/o Agriculture"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d32a"
+        },
+        "code": "MBMM",
+        "name": "M.Sc. (Agric) Microbiology",
+        "faculty": "F/o Agriculture"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d32c"
+        },
+        "code": "PPMM",
+        "name": "M.Sc. (Agric) Plant Protection",
+        "faculty": "F/o Agriculture"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d32e"
+        },
+        "code": "HOMM",
+        "name": "M.Sc. Home Science (Girls)",
+        "faculty": "F/o Agriculture"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d330"
+        },
+        "code": "APFM",
+        "name": "M.Tech Agric.Proc.\u0026 Food Engg",
+        "faculty": "F/o Agriculture"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d332"
+        },
+        "code": "AEMM",
+        "name": "Master of Agribusiness  Mngt",
+        "faculty": "F/o Agriculture"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d334"
+        },
+        "code": "PHDG",
+        "name": "Ph.D / M.Phil. (Agriculture)",
+        "faculty": "F/o Agriculture"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d336"
+        },
+        "code": "BCBB",
+        "name": "B.Sc. (Hons) Biochemistry",
+        "faculty": "F/o Life Science"
+    },
+    {
+        "name": "B.Sc. (Hons) Agriculture"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d338"
+        },
+        "code": "BTBB",
+        "name": "B.Sc. (Hons) Botany",
+        "faculty": "F/o Life Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d33a"
+        },
+        "code": "ZYBB",
+        "name": "B.Sc. (Hons) Zoology",
+        "faculty": "F/o Life Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d33c"
+        },
+        "code": "BDMM",
+        "name": "M.Sc. (BIO-DIVERSITY)",
+        "faculty": "F/o Life Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d33e"
+        },
+        "code": "MUMM",
+        "name": "M.Sc. (MUSEOLOGY)",
+        "faculty": "F/o Life Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d340"
+        },
+        "code": "BCMM",
+        "name": "M.Sc. Biochemistry",
+        "faculty": "F/o Life Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d342"
+        },
+        "code": "BTMM",
+        "name": "M.Sc. Botany",
+        "faculty": "F/o Life Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d344"
+        },
+        "code": "WLMM",
+        "name": "M.Sc. Wildlife Science",
+        "faculty": "F/o Life Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d346"
+        },
+        "code": "ZYMM",
+        "name": "M.Sc. Zoology",
+        "faculty": "F/o Life Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d348"
+        },
+        "code": "BIOM",
+        "name": "M.Sc.(BIO-TECHNOLOGY)",
+        "faculty": "F/o Life Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d34a"
+        },
+        "code": "PHDL",
+        "name": "Ph.D / M.Phil. (Life Sc.)",
+        "faculty": "F/o Life Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d34c"
+        },
+        "code": "BDSB",
+        "name": "B.D.S.",
+        "faculty": "F/o Medicine"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d34e"
+        },
+        "code": "RTTB",
+        "name": "Bachelor of Radiation Theraphy",
+        "faculty": "F/o Medicine"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d350"
+        },
+        "code": "DPGN",
+        "name": "Dip in Gen.Nursing \u0026 Midwifery",
+        "faculty": "F/o Medicine"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d352"
+        },
+        "code": "MBBS",
+        "name": "M.B.B.S.",
+        "faculty": "F/o Medicine"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d354"
+        },
+        "code": "MCHM",
+        "name": "M.Ch.",
+        "faculty": "F/o Medicine"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d356"
+        },
+        "code": "MDCM",
+        "name": "M.D. (COMMUNITY MEDICINE)",
+        "faculty": "F/o Medicine"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d358"
+        },
+        "code": "MDMS",
+        "name": "M.D./M.S.",
+        "faculty": "F/o Medicine"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d35a"
+        },
+        "code": "MDSM",
+        "name": "M.D.S.(DENTAL)",
+        "faculty": "F/o Medicine"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d35c"
+        },
+        "code": "DPSM",
+        "name": "P G DIPLOMA (F/o MEDICINE)",
+        "faculty": "F/o Medicine"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d35e"
+        },
+        "code": "PHDM",
+        "name": "Ph.D / M.Phil. (Medicine)",
+        "faculty": "F/o Medicine"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d360"
+        },
+        "code": "MBAG",
+        "name": "M.B.A.(KISHANGANJ)",
+        "faculty": "F/o Management"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d362"
+        },
+        "code": "MBAK",
+        "name": "M.B.A.(MALLAPURAM)",
+        "faculty": "F/o Management"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d364"
+        },
+        "code": "MBAW",
+        "name": "M.B.A.(MURSHIDABAD)",
+        "faculty": "F/o Management"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d366"
+        },
+        "code": "MBIB",
+        "name": "Master of Bus.Admin (IB)",
+        "faculty": "F/o Management"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d368"
+        },
+        "code": "MBAM",
+        "name": "Master of Business Admin.",
+        "faculty": "F/o Management"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d36a"
+        },
+        "code": "PHDN",
+        "name": "Ph.D / M.Phil. (Management)",
+        "faculty": "F/o Management"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d36c"
+        },
+        "code": "ECBB",
+        "name": "B.A. (Hons) Economics",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d36e"
+        },
+        "code": "EDUB",
+        "name": "B.A. (Hons) Education",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d370"
+        },
+        "code": "GG1B",
+        "name": "B.A. (Hons) Geography",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d372"
+        },
+        "code": "HSBB",
+        "name": "B.A. (Hons) History",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d374"
+        },
+        "code": "ISBB",
+        "name": "B.A. (Hons) Islamic Studies",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d376"
+        },
+        "code": "PLBB",
+        "name": "B.A. (Hons) Political Science",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d378"
+        },
+        "code": "PSBB",
+        "name": "B.A. (Hons) Psychology",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d37a"
+        },
+        "code": "SOBB",
+        "name": "B.A. (Hons) Sociology",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d37c"
+        },
+        "code": "WSBB",
+        "name": "B.A. (Hons)(WOMENS STUDIES)",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d37e"
+        },
+        "code": "SWBB",
+        "name": "B.S.W.",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ea16c26013d451d380"
+        },
+        "code": "DPTE",
+        "name": "DIPLOMA IN TEACHING",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d382"
+        },
+        "code": "ECMM",
+        "name": "M.A. (Economics)",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d384"
+        },
+        "code": "EDUM",
+        "name": "M.A. (Education)",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d386"
+        },
+        "code": "HSMM",
+        "name": "M.A. (History)",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d388"
+        },
+        "code": "HUMM",
+        "name": "M.A. (Human Rights)",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d38a"
+        },
+        "code": "ISMM",
+        "name": "M.A. (Islamic Studies)",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d38c"
+        },
+        "code": "JMCM",
+        "name": "M.A. (Mass Communication)",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d38e"
+        },
+        "code": "PLMM",
+        "name": "M.A. (Political Science)",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d390"
+        },
+        "code": "PSMM",
+        "name": "M.A. (Psychology)",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d392"
+        },
+        "code": "PAMM",
+        "name": "M.A. (Public Administration)",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d394"
+        },
+        "code": "SOMM",
+        "name": "M.A. (Sociology)",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d396"
+        },
+        "code": "WSMM",
+        "name": "M.A. (WOMENS STUDIES)",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d398"
+        },
+        "code": "WAMM",
+        "name": "M.A. (West Asian Studies)",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d39a"
+        },
+        "code": "PEMM",
+        "name": "M.P.Ed.",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d39c"
+        },
+        "code": "SWMM",
+        "name": "Master of Social Work",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d39e"
+        },
+        "code": "PHDO",
+        "name": "Ph.D / M.Phil. (Social Sc.)",
+        "faculty": "F/o Social Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3a0"
+        },
+        "code": "DPDI",
+        "name": "Adv Dip in Int.Decoration",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3a2"
+        },
+        "code": "DPFD",
+        "name": "Adv.Diploma in Food Tech.",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3a4"
+        },
+        "code": "DPMM",
+        "name": "Advance Diploma in MM System",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3a6"
+        },
+        "code": "FDVB",
+        "name": "B.Voc.in Fashion Des.\u0026 G.Tech.",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3a8"
+        },
+        "code": "PTVB",
+        "name": "B.Voc.in Prod.Tech.-Tool \u0026 Die",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3aa"
+        },
+        "code": "DPCE",
+        "name": "DIP IN ENGG (COMPUTER) BOYS",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3ac"
+        },
+        "code": "DPEE",
+        "name": "DIP IN ENGG (ELECTRONICS) BOYS",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3ae"
+        },
+        "code": "DPPT",
+        "name": "DIP IN ENGG (PLASTIC TECH.)",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3b0"
+        },
+        "code": "DPAC",
+        "name": "DIP.IN ENGG (MECH.FRIDGE \u0026 AC)",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3b2"
+        },
+        "code": "DPPE",
+        "name": "DIP.IN ENGG (MECH.PRODUCTION)",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3b4"
+        },
+        "code": "DPIA",
+        "name": "DIPLOMA IN ENGG (ARCH.)",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3b6"
+        },
+        "code": "DPIC",
+        "name": "DIPLOMA IN ENGG (CIVIL)",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3b8"
+        },
+        "code": "DPIE",
+        "name": "DIPLOMA IN ENGG (ELECTRICAL)",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3ba"
+        },
+        "code": "DPII",
+        "name": "DIPLOMA IN ENGG (INSTRUMENT)",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3bc"
+        },
+        "code": "DPID",
+        "name": "DIPLOMA IN ENGG (INT.DES.)",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3be"
+        },
+        "code": "DPFT",
+        "name": "DIPLOMA IN ENGG (LEATHER)",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3c0"
+        },
+        "code": "DPIM",
+        "name": "DIPLOMA IN ENGG (MECHANICAL)",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3c2"
+        },
+        "code": "DPCG",
+        "name": "Dip in Cost.Design \u0026 Garment",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3c4"
+        },
+        "code": "DPLE",
+        "name": "Dip in Electronics Engg-Girls",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3c6"
+        },
+        "code": "DPTV",
+        "name": "Dip in Information Tech.-Girls",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3c8"
+        },
+        "code": "DPCO",
+        "name": "Diploma in Computer Engg-Girls",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3ca"
+        },
+        "code": "DPOS",
+        "name": "Diploma in Sec. Practice",
+        "faculty": "Polytechnic"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3cc"
+        },
+        "code": "CHBB",
+        "name": "B.Sc. (Hons) Chemistry",
+        "faculty": "F/o Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3ce"
+        },
+        "code": "GGBB",
+        "name": "B.Sc. (Hons) Geography",
+        "faculty": "F/o Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3d0"
+        },
+        "code": "GLBB",
+        "name": "B.Sc. (Hons) Geology",
+        "faculty": "F/o Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3d2"
+        },
+        "code": "MMBB",
+        "name": "B.Sc. (Hons) Mathematics",
+        "faculty": "F/o Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3d4"
+        },
+        "code": "PHBB",
+        "name": "B.Sc. (Hons) Physics",
+        "faculty": "F/o Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3d6"
+        },
+        "code": "STBB",
+        "name": "B.Sc. (Hons) Statistics",
+        "faculty": "F/o Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3d8"
+        },
+        "code": "ICBB",
+        "name": "B.Sc. (Hons.)  (Indus.Chem)",
+        "faculty": "F/o Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3da"
+        },
+        "code": "CABB",
+        "name": "B.Sc. (Hons.) (Comp.Appl)",
+        "faculty": "F/o Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3dc"
+        },
+        "code": "GLMM",
+        "name": "M.Sc. (Applied Geology)",
+        "faculty": "F/o Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3de"
+        },
+        "code": "CHMM",
+        "name": "M.Sc. (Chemistry)",
+        "faculty": "F/o Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3e0"
+        },
+        "code": "ICMM",
+        "name": "M.Sc. (Industrial Chemistry)",
+        "faculty": "F/o Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3e2"
+        },
+        "code": "PHMM",
+        "name": "M.Sc. (Physics)",
+        "faculty": "F/o Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3e4"
+        },
+        "code": "RSMM",
+        "name": "M.Sc.(Rem.Sensing \u0026 GIS App.)",
+        "faculty": "F/o Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3e6"
+        },
+        "code": "GGMM",
+        "name": "M.Sc./M.A. (Geography)",
+        "faculty": "F/o Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3e8"
+        },
+        "code": "MMMM",
+        "name": "M.Sc./M.A. (Mathematics)",
+        "faculty": "F/o Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3ea"
+        },
+        "code": "STMM",
+        "name": "M.Sc./M.A. (Statistics)",
+        "faculty": "F/o Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3ec"
+        },
+        "code": "ORMM",
+        "name": "M.Sc./M.A. Operations Research",
+        "faculty": "F/o Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3ee"
+        },
+        "code": "CAMM",
+        "name": "Master in Computer Sci.\u0026 Appl.",
+        "faculty": "F/o Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1eb16c26013d451d3f0"
+        },
+        "code": "PHDS",
+        "name": "Ph.D / M.Phil. (Science)",
+        "faculty": "F/o Science"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d3f2"
+        },
+        "code": "TSHB",
+        "name": "B.A. (Shia Theology)",
+        "faculty": "F/o Theology"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d3f4"
+        },
+        "code": "TSUB",
+        "name": "B.A. (Sunni Theology)",
+        "faculty": "F/o Theology"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d3f6"
+        },
+        "code": "TSHM",
+        "name": "M.A. (Shia Theology)",
+        "faculty": "F/o Theology"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d3f8"
+        },
+        "code": "TSUM",
+        "name": "M.A. (Sunni Theology)",
+        "faculty": "F/o Theology"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d3fa"
+        },
+        "code": "PHDT",
+        "name": "Ph.D / M.Phil. (Theology)",
+        "faculty": "F/o Theology"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d3fc"
+        },
+        "code": "BUMS",
+        "name": "B.U.M.S.",
+        "faculty": "F/o Unani Medicine"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d3fe"
+        },
+        "code": "MSUM",
+        "name": "MAHIR-E-JARAHAT",
+        "faculty": "F/o Unani Medicine"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d400"
+        },
+        "code": "MDUM",
+        "name": "MAHIR-E-TIB",
+        "faculty": "F/o Unani Medicine"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d402"
+        },
+        "code": "LLBB",
+        "name": "B.A.-LL.B.",
+        "faculty": "F/o Law"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d404"
+        },
+        "code": "LLBK",
+        "name": "B.A.-LL.B.(MALLAPURAM)",
+        "faculty": "F/o Law"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d406"
+        },
+        "code": "LLBW",
+        "name": "B.A.-LL.B.(MURSHIDABAD)",
+        "faculty": "F/o Law"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d408"
+        },
+        "code": "LLMM",
+        "name": "LL.M.",
+        "faculty": "F/o Law"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d40a"
+        },
+        "code": "PHDW",
+        "name": "Ph.D / M.Phil. (Law)",
+        "faculty": "F/o Law"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d40c"
+        },
+        "code": "CEDH",
+        "name": "Certificate in Dental Hygiene",
+        "faculty": "Prof. Course"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d40e"
+        },
+        "code": "DIDM",
+        "name": "DIPLOMA IN DENTAL MECHANIC",
+        "faculty": "Prof. Course"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d410"
+        },
+        "code": "DPMB",
+        "name": "DMLT (Pathology)",
+        "faculty": "Prof. Course"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d412"
+        },
+        "code": "DPRA",
+        "name": "DMLT (Radiology)",
+        "faculty": "Prof. Course"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d414"
+        },
+        "code": "DPAN",
+        "name": "Dip in Anaesthetic Asstt",
+        "faculty": "Prof. Course"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d416"
+        },
+        "code": "DPPR",
+        "name": "Dip in Physiotherapy \u0026 Reh",
+        "faculty": "Prof. Course"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d418"
+        },
+        "code": "PDDT",
+        "name": "Diploma in Dialysis Techniques",
+        "faculty": "Prof. Course"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d41a"
+        },
+        "code": "DPOT",
+        "name": "Diploma in O T Mngt",
+        "faculty": "Prof. Course"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d41c"
+        },
+        "code": "DPOA",
+        "name": "Diploma in Ophthalmic Assis",
+        "faculty": "Prof. Course"
+    },
+    {
+        "_id": {
+            "$oid": "5747d1ec16c26013d451d41e"
+        },
+        "code": "DPSE",
+        "name": "Diploma in Surgical Endoscopic",
+        "faculty": "Prof. Course"
+    }
+]

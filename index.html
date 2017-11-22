@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="indexApp">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <title>Intranet Portal AMU</title>
+        <!-- Bootstrap Core CSS -->
+        <link href="public/libs/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+        <!-- Custom Fonts -->
+        <link href="public/libs/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+<!--        <link href="public/libs/google_fonts/fontapi1.css" rel="stylesheet" type="text/css"/>
+        <link href="public/libs/google_fonts/fontapi2.css" rel="stylesheet" type="text/css"/>-->
+        <!-- <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+                <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>-->
+        <!-- Plugin CSS -->
+        <link href="public/libs/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css"/>
+        <!-- Theme CSS -->
+        <link href="public/css/creative.css" rel="stylesheet" type="text/css"/>
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body id="page-top">
+        <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid"> 
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">                    
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                    </button>
+
+                    <a class="navbar-brand page-scroll" href="#page-top">
+                        Aligarh Muslim University                       
+                    </a> 
+                    <span class="label label-danger">Beta 1.0</span>
+                </div>                
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a class="page-scroll" href="#about">About</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#services">Services</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="/rmdining">R.M. Hall Dining</a>
+                        </li> 
+                        <li>
+                            <a class="page-scroll" href="#useful_downloads">Useful Downloads</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#enoticeboard">e-Noticeboard</a>
+                        </li>                        
+                        <li>
+                            <a class="page-scroll" href="helpdesk/helpdesklogin.jsp">Help Desk</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#contact">Contact</a> 
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container-fluid -->
+        </nav>
+
+        <header id="about">            
+            <div class="header-content">                
+                <div class="text-center">                                                     
+                    <img src="public/img/logo_1.png" alt="Aligarh Muslim University" height="120" width="120">                                        
+                </div>
+                <br>
+                <div class="header-content-inner">
+                    <h1 class="section-heading">AMU Self Service Intranet Portal</h1> 
+                    <br>
+                    <p class="text-justify">
+                        Self-Service Intranet Portal of AMU is envisaged to be the one stop portal for all the services being rendered
+                        to various sections of AMU ICT-Users Community. At present services being offered from Computer Centre are being 
+                        provisioned in this release of AMU Intranet Portal. Suggestions/feedback for enhancement are welcome from all.
+                    </p>                     
+                    <a href="#students" class="btn btn-primary btn-xl page-scroll">Students</a>
+                    <a href="employees" class="btn btn-primary btn-xl page-scroll">Employees</a>
+                    <div class="btn-group">
+                        <div class="dropdown">
+                            <button class="btn btn-primary dropdown-toggle btn-xl page-scroll" type="button" data-toggle="dropdown">                        
+                                Admin <span class="caret"></span>
+                            </button>
+                            <ul class="dropdown-menu">
+                                <li><a href="#dean" class="page-scroll">Dean</a></li>
+                                <li><a href="#chairperson" class="page-scroll">Chairperson</a></li>
+                                <li><a href="#principal" class="page-scroll">Principal</a></li>                            
+                                <li><a href="#director" class="page-scroll">Director</a></li>
+                                <li><a href="#provost" class="page-scroll">Provost</a></li>
+                                <li><a href="#coordinator" class="page-scroll">Coordinator</a></li>
+                                <li><a href="#pro" class="page-scroll">PRO</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <br><br>
+                    <div class="alert alert-info">
+                        Special <strong>4th</strong> window for applying WiFi Continuation is now open till 25th November 2017. All pending Continuation Requests may be completed within the time-line.
+                    </div>
+                </div>
+            </div>
+        </header>        
+        <section class="bg-primary" id="students">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-lg-offset-3">
+                        <div class="text-center">
+                            <p>All students (Freshers/Continuing) are required to register in order to avail the services offered by Computer Centre.</p>
+                        </div>
+                        <div class="text-left">
+                            <h2 class="section-heading">Students Login</h2>
+                        </div>
+                        <hr class="light">
+                        <form method="post" action="students/login">
+                            <fieldset class="form-group">
+                                <label for="enroll">Enrollment Number</label>
+                                <input name="enroll" type="text" class="form-control" id="enroll" placeholder="Enrollment Number" required oninvalid="this.setCustomValidity('This field should not be left blank')" oninput="setCustomValidity('')" />
+                            </fieldset>
+                            <fieldset class="form-group">
+                                <label for="password">Password</label>
+                                <input name="password" type="password" class="form-control" id="password" placeholder="Password" required oninvalid="this.setCustomValidity('This field should not be left blank')" oninput="setCustomValidity('')" />
+                            </fieldset>
+                            <input class="btn btn-default btn-xl sr-button" type="submit" value="Login" />
+                            <hr class="lighter">
+                            <a href="students/Recovery.jsp" class="btn btn-primary btn-xl pull-left">Forgot Password</a>
+                            <a href="https://myamu.ac.in/public/uploads/userguides/students.pdf" target="blank" class="btn btn-primary btn-xl pull-right">Students User Guide</a>
+                            <a href="students/Registration.jsp" class="btn btn-primary btn-xl pull-right">Register</a>			    
+                        </form>
+                    </div>
+                </div> 
+                <a href="#about" class="btn btn-default btn-sm pull-right page-scroll">Top</a>
+            </div>            
+        </section>        
+        <section id="dean">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-lg-offset-3">
+                        <div class="text-left">
+                            <h2 class="section-heading">Dean Login</h2>
+                        </div>
+                        <hr class="primary">
+                        <form method="post" action="admin/adminlogin">                                    
+                            <fieldset class="form-group">
+                                <label for="username">Username</label>
+                                <input name="username" type="text" class="form-control col-lg-4" oninvalid="this.setCustomValidity('This field should not be left blank')" oninput="setCustomValidity('')" placeholder="Username" required/>                                
+                            </fieldset>
+                            <fieldset class="form-group">
+                                <label for="password">Password</label>
+                                <input name="password" type="password" class="form-control" oninvalid="this.setCustomValidity('This field should not be left blank')" oninput="setCustomValidity('')" placeholder="Password" required/>
+                            </fieldset>
+                            <input class="btn btn-primary btn-xl sr-button pull-left" type="submit" value="Login" />                            
+                            <br><br>
+                            <hr class="thinline">
+                            <a href="admin/admin_recovery.jsp" class="btn btn-default btn-xl pull-left">Forgot Password</a>
+                            <a href="https://myamu.ac.in/public/uploads/userguides/dean.pdf" target="blank" class="btn btn-default btn-xl pull-right">Dean User Guide</a>
+                        </form>
+                        <br><br>
+                    </div>
+                </div>
+                <a href="#about" class="btn btn-primary btn-sm pull-right page-scroll">Top</a>
+            </div>
+        </section>
+        <section id="chairperson" class="bg-primary">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-lg-offset-3">
+                        <div class="text-left">
+                            <h2 class="section-heading">Chairperson Login</h2>
+                        </div>
+                        <hr class="light">
+                        <form method="post" action="admin/adminlogin">                                    
+                            <fieldset class="form-group">
+                                <label for="username">Username</label>
+                                <input name="username" type="text" class="form-control col-lg-4" oninvalid="this.setCustomValidity('This field should not be left blank')" oninput="setCustomValidity('')" placeholder="Username" required/>                                
+                            </fieldset>
+                            <fieldset class="form-group">
+                                <label for="password">Password</label>
+                                <input name="password" type="password" class="form-control" oninvalid="this.setCustomValidity('This field should not be left blank')" oninput="setCustomValidity('')" placeholder="Password" required/>
+                            </fieldset>
+                            <input class="btn btn-default btn-xl sr-button pull-left" type="submit" value="Login" />
+                            <br><br>
+                            <hr class="lighter">
+                            <a href="admin/admin_recovery.jsp" class="btn btn-primary btn-xl pull-left">Forgot Password</a>
+                            <a href="https://myamu.ac.in/public/uploads/userguides/chairperson.pdf" target="blank" class="btn btn-primary btn-xl pull-right">Chairperson User Guide</a>
+                        </form>
+                        <br><br>
+                    </div>
+                </div>
+                <a href="#about" class="btn btn-default btn-sm pull-right page-scroll">Top</a>
+            </div>
+        </section>
+        <section id="principal">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-lg-offset-3">
+                        <div class="text-left">
+                            <h2 class="section-heading">Principal Login</h2>
+                        </div>
+                        <hr class="primary">
+                        <form method="post" action="admin/adminlogin">                                    
+                            <fieldset class="form-group">
+                                <label for="username">Username</label>
+                                <input name="username" type="text" class="form-control col-lg-4" oninvalid="this.setCustomValidity('This field should not be left blank')" oninput="setCustomValidity('')" placeholder="Username" required/>                                
+                            </fieldset>
+                            <fieldset class="form-group">
+                                <label for="password">Password</label>
+                                <input name="password" type="password" class="form-control" oninvalid="this.setCustomValidity('This field should not be left blank')" oninput="setCustomValidity('')" placeholder="Password" required/>
+                            </fieldset>
+                            <input class="btn btn-primary btn-xl sr-button pull-left" type="submit" value="Login" />                            
+                            <br><br>
+                            <hr class="thinline">
+                            <a href="admin/admin_recovery.jsp" class="btn btn-default btn-xl pull-left">Forgot Password</a>
+                            <a href="https://myamu.ac.in/public/uploads/userguides/principal.pdf" target="blank" class="btn btn-default btn-xl pull-right">Principal User Guide</a>
+                        </form>
+                        <br><br>
+                    </div>
+                </div>
+                <a href="#about" class="btn btn-primary btn-sm pull-right page-scroll">Top</a>
+            </div>
+        </section>
+        <section id="director" class="bg-primary">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-lg-offset-3">
+                        <div class="text-left">
+                            <h2 class="section-heading">Director Login</h2>
+                        </div>
+                        <hr class="light">
+                        <form method="post" action="admin/adminlogin">                                    
+                            <fieldset class="form-group">
+                                <label for="username">Username</label>
+                                <input name="username" type="text" class="form-control col-lg-4" oninvalid="this.setCustomValidity('This field should not be left blank')" oninput="setCustomValidity('')" placeholder="Username" required/>                                
+                            </fieldset>
+                            <fieldset class="form-group">
+                                <label for="password">Password</label>
+                                <input name="password" type="password" class="form-control" oninvalid="this.setCustomValidity('This field should not be left blank')" oninput="setCustomValidity('')" placeholder="Password" required/>
+                            </fieldset>
+                            <input class="btn btn-default btn-xl sr-button pull-left" type="submit" value="Login" />
+                            <br><br>
+                            <hr class="lighter">
+                            <a href="admin/admin_recovery.jsp" class="btn btn-primary btn-xl pull-left">Forgot Password</a>
+                            <a href="https://myamu.ac.in/public/uploads/userguides/director.pdf" target="blank" class="btn btn-primary btn-xl pull-right">Director User Guide</a>
+                        </form>
+                        <br><br>
+                    </div>
+                </div>
+                <a href="#about" class="btn btn-default btn-sm pull-right page-scroll">Top</a>
+            </div>
+        </section>
+        <section id="provost">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-lg-offset-3">
+                        <div class="text-left">
+                            <h2 class="section-heading">Provost Login</h2>
+                        </div>
+                        <hr class="primary">
+                        <form method="post" action="admin/adminlogin">                                    
+                            <fieldset class="form-group">
+                                <label for="username">Username</label>
+                                <input name="username" type="text" class="form-control" oninvalid="this.setCustomValidity('This field should not be left blank')" oninput="setCustomValidity('')" placeholder="Username" required/>
+                                <small class="text-muted"></small>
+                            </fieldset>
+                            <fieldset class="form-group">
+                                <label for="password">Password</label>
+                                <input name="password" type="password" class="form-control" oninvalid="this.setCustomValidity('This field should not be left blank')" oninput="setCustomValidity('')" placeholder="Password" required/>
+                            </fieldset>
+                            <input class="btn btn-primary btn-xl sr-button pull-left" type="submit" value="Login" />
+                            <br><br>
+                            <hr class="thinline">
+                            <a href="admin/admin_recovery.jsp" class="btn btn-default btn-xl pull-left">Forgot Password</a>
+                            <a href="https://myamu.ac.in/public/uploads/userguides/provost.pdf" target="blank" class="btn btn-default btn-xl pull-right">Provost User Guide</a>
+                        </form>
+                    </div>
+                </div>
+                <a href="#about" class="btn btn-primary btn-sm pull-right page-scroll">Top</a>
+            </div>
+        </section>
+        <section id="coordinator" class="bg-primary">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-lg-offset-3">
+                        <div class="text-left">
+                            <h2 class="section-heading">Coordinator Login</h2>
+                        </div>
+                        <hr class="light">
+                        <form method="post" action="admin/adminlogin">                                    
+                            <fieldset class="form-group">
+                                <label for="username">Username</label>
+                                <input name="username" type="text" class="form-control" oninvalid="this.setCustomValidity('This field should not be left blank')" oninput="setCustomValidity('')" placeholder="Username" required/>
+                                <small class="text-muted"></small>
+                            </fieldset>
+                            <fieldset class="form-group">
+                                <label for="password">Password</label>
+                                <input name="password" type="password" class="form-control" oninvalid="this.setCustomValidity('This field should not be left blank')" oninput="setCustomValidity('')" placeholder="Password" required/>
+                            </fieldset>
+                            <input class="btn btn-default btn-xl sr-button pull-left" type="submit" value="Login" />
+                            <br><br>
+                            <hr class="thinline">
+                            <a href="admin/admin_recovery.jsp" class="btn btn-primary btn-xl pull-left">Forgot Password</a>
+                            <a href="http:/myamu.ac.in/public/uploads/userguides/coordinator.pdf" target="blank" class="btn btn-primary btn-xl pull-right">Coordinator User Guide</a>
+                        </form>
+                    </div>
+                </div>
+                <a href="#about" class="btn btn-default btn-sm pull-right page-scroll">Top</a>
+            </div>
+        </section>
+        <section id="webcasting" ng-controller="proCtrl">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="text-left">
+                            <h2 class="section-heading">64th Annual Convocation AMU on 01 November 2016</h2>
+                        </div>
+                        <iframe width="800" height="400" src="https://www.youtube.com/embed/qJ2VB-_nGN4" frameborder="0" allowfullscreen></iframe>
+                        <p class="text-muted">
+                            Live Streaming | 64th Annual Convocation | Aligarh Muslim University | 1st November 2016
+                        </p>
+                    </div> 
+                </div>
+                <a href="#about" class="btn btn-primary btn-sm pull-right page-scroll">Top</a>
+            </div>            
+        </section>
+        <section id="pro" class="bg-primary">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-lg-offset-3">
+                        <div class="text-left">
+                            <h2 class="section-heading">PRO Login</h2>
+                        </div>
+                        <hr class="light">
+                        <form method="post" action="admin/adminlogin">                                    
+                            <fieldset class="form-group">
+                                <label for="username">Username</label>
+                                <input name="username" type="text" class="form-control col-lg-4" oninvalid="this.setCustomValidity('This field should not be left blank')" oninput="setCustomValidity('')" placeholder="Username" required/>                                
+                            </fieldset>
+                            <fieldset class="form-group">
+                                <label for="password">Password</label>
+                                <input name="password" type="password" class="form-control" oninvalid="this.setCustomValidity('This field should not be left blank')" oninput="setCustomValidity('')" placeholder="Password" required/>
+                            </fieldset>
+                            <input class="btn btn-default btn-xl sr-button pull-left" type="submit" value="Login" />
+                            <br><br>
+                            <hr class="lighter">
+                            <a href="admin/admin_recovery.jsp" class="btn btn-primary btn-xl pull-left">Forgot Password</a>
+                            <!--                            <a href="https://myamu.ac.in/public/uploads/userguides/director.pdf" target="blank" class="btn btn-primary btn-xl pull-right">Director User Guide</a>-->
+                        </form>
+                        <br><br>
+                    </div>
+                </div>
+                <a href="#about" class="btn btn-default btn-sm pull-right page-scroll">Top</a>
+            </div>
+        </section>
+        <section id="useful_downloads">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h2 class="section-heading">Useful Downloads</h2>
+                    </div>
+                </div>
+            </div>
+            <br/>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-md-offset-3 text-center">
+                        <div class="service-box">
+                            <a href="https://myamu.ac.in/public/uploads/userguides/evening_course.pdf" target="blank">
+                                <i class="fa fa-4x fa-download sr-icons"></i>
+                            </a>
+                            <h3>Resident Hall Waiver Form</h3>
+                            <p class="text-muted">Students who are enrolled in Evening Course/PG Diploma and don't belong to any Hall.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 text-center">
+                        <div class="service-box">
+                            <a href="https://myamu.ac.in/public/uploads/userguides/grievance_form.pdf" target="blank">
+                                <i class="fa fa-4x fa-download sr-icons"></i>
+                            </a>
+                            <h3>Grievance Form</h3>
+                            <p class="text-muted">Form for any support regarding Self Service Intranet Portal</p>
+                        </div>
+                    </div>
+                </div>
+                <br/><br/>
+                <a href="#about" class="btn btn-primary btn-sm pull-right page-scroll">Top</a>
+            </div>
+        </section>
+        <section id="services" class="bg-primary">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h2 class="section-heading">Up Coming Services</h2>
+                    </div>
+                </div>
+            </div>
+            <br/>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 text-center">
+                        <div class="service-box">
+                            <i class="fa fa-4x fa-cloud sr-icons"></i>
+                            <h3>AMU Cloud</h3>
+                            <p class="text-faded">To keep your stuff safe AMU Cloud is coming shortly.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 text-center">
+                        <div class="service-box">
+                            <i class="fa fa-4x fa-edit sr-icons"></i>
+                            <h3>Leave Management System</h3>
+                            <p class="text-faded">To automate the process of taking leave. It is coming to your door step.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 text-center">
+                        <div class="service-box">
+                            <i class="fa fa-4x fa-book sr-icons"></i>
+                            <h3>Guest House Booking</h3>
+                            <p class="text-faded">Online guest house booking system is evolving shortly.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 text-center">
+                        <div class="service-box">
+                            <i class="fa fa-4x fa-briefcase sr-icons"></i>
+                            <h3>Asset Management System</h3>
+                            <p class="text-faded">Now you will be able to track your assets of the department from here.</p>
+                        </div>
+                    </div>
+                </div>
+                <br/><br/>
+                <a href="#about" class="btn btn-default btn-sm pull-right page-scroll">Top</a>
+            </div>
+        </section>
+        <section id="enoticeboard">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h2 class="section-heading">E-Noticeboard</h2>
+                    </div>
+                </div>
+            </div>
+            <br/>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-md-offset-3 text-center">
+                        <div class="service-box">
+                            <a href="https://amu.ac.in/pdf/adminnt/outside country" target="blank">
+                                <i class="fa fa-4x fa-download sr-icons"></i>
+                            </a>
+                            <h3>Proforma for Permission of personal visit out side the country</h3>
+                            <p class="text-muted">
+                                Proforma for Permission of personal visit out side the country for wide circulation among technical
+                                /non-technical/Group 'C' (Erstwhile Group 'D') employees.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <br/><br/>
+                <a href="#about" class="btn btn-primary btn-sm pull-right page-scroll">Top</a>
+            </div>
+        </section>
+        <section id="contact" class="bg-primary">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2 text-center">
+                        <h2 class="section-heading">Let's Get In Touch!</h2>
+                        <br/><br/>
+                        <p>Give us a call or send us an email and we will get back to you as soon as possible!</p>
+                    </div>
+                    <div class="col-lg-4 col-lg-offset-2 text-center">
+                        <i class="fa fa-phone fa-3x sr-contact"></i>
+                        <p> +91-571-2700920, 3659/3660 </p>
+                    </div>
+                    <div class="col-lg-4 text-center">
+                        <i class="fa fa-envelope-o fa-3x sr-contact"></i>
+                        <p><a href="mailto:your-email@your-domain.com">helpdesk.cc@amu.ac.in</a></p>
+                    </div>
+                </div>
+
+                <a href="#about" class="btn btn-default btn-sm pull-right page-scroll">Top</a>
+            </div>
+            <br/><br/><br/><br/>
+        </section>
+        <hr class="footer">
+        <footer class="">
+            <div class="container">
+                <p>
+                    <span class="text-muted">All rights reserved © 2017, Computer Centre, AMU</span>
+<!--                    <span class="pull-right text-muted">Pen <i class='fa fa-paint-brush'></i> + <i class='fa fa-code'></i> by Computer Centre (<a href='http://www.amu.ac.in/centreshowfacultydata2.jsp?did=10010&eid=10059872' target="_blank">Mohammad Amir</a>)</span>-->
+                </p>
+            </div>
+        </footer>
+
+        <!-- jQuery -->
+        <script src="public/libs/jquery/dist/jquery.min.js" type="text/javascript"></script>
+
+        <!-- Bootstrap Core JavaScript -->
+        <script src="public/libs/bootstrap/dist/js/bootstrap.min.js" type="text/javascript"></script>
+
+        <!-- Plugin JavaScript for scrolling smoothness -->
+        <script src="public/libs/jquery/dist/jquery.easing.min.js" type="text/javascript"></script>
+
+        <!-- <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>-->        
+        <script src="public/libs/scrollreveal/scrollreveal.min.js" type="text/javascript"></script>
+        <script src="public/libs/magnific-popup/jquery.magnific-popup.min.js" type="text/javascript"></script>
+
+        <!-- Theme JavaScript -->
+        <script src="public/js/creative.js" type="text/javascript"></script>
+        <script src="public/libs/angular/angular.js" type="text/javascript"></script>
+        <script src="public/app/index.js" type="text/javascript"></script>
+    </body>
+</html>
